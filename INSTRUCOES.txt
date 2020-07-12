@@ -1,0 +1,13 @@
+Criar banco de dados phpfood
+
+Senha administrador
+admin
+password
+
+login garçom 
+mario
+pass123
+
+login chef
+joao
+pass123
